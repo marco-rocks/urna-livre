@@ -53,7 +53,7 @@ urna-livre/
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/SEU_USUARIO/urna-livre.git
+   git clone https://github.com/marco-rocks/urna-livre.git
    cd urna-livre
    ```
 
